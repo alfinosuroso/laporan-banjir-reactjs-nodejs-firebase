@@ -19,12 +19,11 @@ This project is a full-stack application that uses ReactJS for the frontend, Nod
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/alfinosuroso/laporan-banjir-reactjs-nodejs-firebase.git
 cd laporan-banjir-reactjs-nodejs-firebase
 
 ### 2. Frontend Setup
-```bash
+
 cd laporan-banjir-reactjs-firebase
 npm install
 npm run dev
