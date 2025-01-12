@@ -24,6 +24,7 @@ git clone https://github.com/alfinosuroso/laporan-banjir-reactjs-nodejs-firebase
 cd laporan-banjir-reactjs-nodejs-firebase
 
 ### 2. Frontend Setup
+```bash
 cd laporan-banjir-reactjs-firebase
 npm install
 npm run dev
